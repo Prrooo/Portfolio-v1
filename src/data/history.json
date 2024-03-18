@@ -1,0 +1,16 @@
+[
+  {
+    "role": "Advanced React",
+    "organisation": "Meta",
+    "startDate": "February 20, 2024",
+    "knowledge": ["Create reusable components with advanced techniques", "fetch and post data via an API"," React Testing Library"],
+    "imageSrc": "history/meta.png"
+  },
+  {
+    "role": "Responsive Web Design",
+    "organisation": "FreeCodeCamp",
+    "startDate": "September 10,2023",
+    "knowledge": ["Responsive Web", "User Friendly Desing"],
+    "imageSrc": "history/freecodecamp.png"
+  }
+]

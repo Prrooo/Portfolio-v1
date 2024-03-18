@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Study Notion",
+    "imageSrc": "projects/studynotion.png",
+    "description": "Platform allows users to access a variety of educational materials and interact with educators ,enhancing the learning experience.",
+    "skills": ["React", "Express", "Node","MongoDb"],
+    "demo": "https://study-notion-ruddy.vercel.app/",
+    "source": "https://github.com/Prrooo/StudyNotion"
+  },
+  {
+    "title": "React Dashboard",
+    "imageSrc": "projects/reactdashbord.png",
+    "description": "Dynamic dashboard offering seamless navigation, stylish design, and efficient data management for enhanced user experience.",
+    "skills": ["React","SaaS","TypeScript"],
+    "demo": "https://react-dashboard-two-weld.vercel.app/admin/dashboard",
+    "source": "https://github.com/Prrooo/react-dashboard"
+  },
+  {
+    "title": "Paytm Wallet",
+    "imageSrc": "projects/wallet.png",
+    "description": "A Paytm Wallet website ensuring transactional integrity and reliability by adhering to the ACID properties of database management.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Prrooo/wallet"
+  },
+  {
+    "title": "Nike Landing Page",
+    "imageSrc": "projects/nike.png",
+    "description": "Nike responsive landing page offering seamless user experience and stunning design for all devices.",
+    "skills": ["React", "Tailwind Css"],
+    "demo": "https://prrooo.github.io/NIke/",
+    "source": "https://github.com/Prrooo/NIke"
+  }
+]
