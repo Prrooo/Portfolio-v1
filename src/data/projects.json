@@ -12,7 +12,7 @@
     "imageSrc": "projects/reactdashbord.png",
     "description": "Dynamic dashboard offering seamless navigation, stylish design, and efficient data management for enhanced user experience.",
     "skills": ["React","SaaS","TypeScript"],
-    "demo": "https://react-dashboard-two-weld.vercel.app/admin/dashboard",
+    "demo": "https://react-dashboard-two-weld.vercel.app/",
     "source": "https://github.com/Prrooo/react-dashboard"
   },
   {
